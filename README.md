@@ -1,0 +1,1 @@
+This repository contains 199 images of people whose sentiments have been validated by Google Forms. See https://github.com/fabiorcerqueira/create_form_for_img_human_validation for python code to create the forms. The human responses, based on consesus, can be found in the file "form_answers_in_portuguese.ods".
